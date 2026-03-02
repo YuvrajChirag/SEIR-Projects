@@ -49,4 +49,5 @@ if len(sys.argv) != 2: # wrong url or input.
     sys.exit()
 
 url = sys.argv[1]
+
 show_data(url)
